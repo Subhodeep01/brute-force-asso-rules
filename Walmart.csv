@@ -1,0 +1,32 @@
+Item #,Item Name
+1,ink
+2,pen
+3,cheese
+4,bag
+5,juice
+6,milk
+7,bread
+8,butter
+9,apple
+10,chocolate
+Transaction ID,Transaction
+Trans1,"ink, pen, cheese, bag"
+Trans2,"milk, pen, juice, cheese"
+Trans3,"milk, juice"
+Trans4,"juice, milk, cheese"
+Trans5,"ink, pen, cheese, bag"
+Trans6,"milk, pen, juice, cheese"
+Trans7,"butter, bread, apple"
+Trans8,"apple, chocolate, juice"
+Trans9,"milk, butter, bread, cheese"
+Trans10,"apple, pen, chocolate"
+Trans11,"bread, cheese, butter"
+Trans12,"milk, chocolate, pen, ink"
+Trans13,"bread, butter, ink"
+Trans14,"pen, apple, juice"
+Trans15,"butter, chocolate, bag"
+Trans16,"bread, ink, pen, milk"
+Trans17,"apple, cheese, bag"
+Trans18,"butter, cheese, juice"
+Trans19,"milk, chocolate, butter, bread"
+Trans20,"apple, bag, juice, cheese"

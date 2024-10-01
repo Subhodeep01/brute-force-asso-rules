@@ -1,0 +1,3 @@
+Link to Efficient Apriori python library: https://pypi.org/project/efficient-apriori/
+Link to FPgrowth python library: https://pypi.org/project/fpgrowth-py/
+Walmart.csv was generated using ChatGPT-4: OpenAI. (2023). ChatGPT (GPT-4) [Large language model]. https://openai.com
